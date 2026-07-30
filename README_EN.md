@@ -40,7 +40,7 @@ Notes: mostly vendor-reported; **different harness / multi-agent ≠ comparable*
 | OpenAI GPT-5.6 | 2026-07-09 | https://openai.com/index/gpt-5-6/ |
 | Anthropic Claude Opus 4.8 | 2026-05-28 | https://www.anthropic.com/news/claude-opus-4-8 |
 | Anthropic Claude Fable 5 / Mythos 5 | 2026-06-09 | https://www.anthropic.com/news/claude-fable-5-mythos-5 |
-| Anthropic Claude Sonnet 5 | 2026-06-30 | (listed on FrontierCode 1.1) |
+| Anthropic Claude Sonnet 5 | 2026-06-30 | https://www.anthropic.com/news/claude-sonnet-5 |
 | Anthropic Claude Opus 5 | 2026-07-24 | https://www.anthropic.com/news/claude-opus-5 |
 | Google Gemini 3.5 Flash | 2026-05-19 | https://deepmind.google/models/model-cards/gemini-3-5-flash/ |
 | Google Gemini 3.6 Flash | 2026-07-21 | https://deepmind.google/models/gemini/flash/ |
