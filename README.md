@@ -2,7 +2,7 @@
 
 [English](./README_EN.md) | [中文](./README_ZH.md)
 
-> Code Agent benchmarks labs still report (2026-05-01 → 2026-08-12).  
+> Code Agent benchmarks labs still report (2026-05-01 → 2026-08-14).  
 > 近三个月厂商仍在报分的 Code Agent 榜。
 
 | | |
